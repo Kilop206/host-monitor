@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # PC IoT Monitor
 
 A Docker-based system monitoring project using Python, MQTT,
@@ -92,3 +93,6 @@ http://localhost:1880/dashboard
 InfluxDB
 
 http://localhost:8086
+=======
+# host-monitor
+>>>>>>> 8e81d70f13253ce89eee225559c42f8c2d8028a9
